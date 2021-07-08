@@ -1,0 +1,16 @@
+check_inference.py
+execution.sh
+execution_losses.sh
+execution_params.sh
+get_params.py
+__init__.py
+LICENSE
+output_test_segnet.txt
+output_test_unet.txt
+README .md
+sampling_data.py
+trainLoss.txt
+trainLossOLD.txt
+train_plot.py
+VallLoss.txt
+VallLossOLD.txt
