@@ -183,7 +183,8 @@ if __name__ == "__main__":
     #print(args.network_arch + "," + str(args.use_mini) + "," + str(args.use_SE) + "," + str(args.use_preluSE) + "," + str(args.use_boxconv) + "," + \
                     #str(args.idtest) + "," + str(args.feature_scale) + "," + str(scores[0]*100.0)+ "," +str(scores[1]*100.0)+ "," +str(scores[2]*100.0)+ "," +str(scores[3]*100.0) + '\n')
     #output_f.close()
-
+    
+    print("ESTO ES EL MENSAJE DE PRUEBA DE GITHUB!!!! JAJAJAJAJAJAJAJ")
 
     args.feature_scale = args.resnet_blocks
     output_f.write(str(args.use_mini) + "," + str(args.use_SE) + "," + str(args.use_head_box) + "," + str(args.use_boxconv) + "," + \
