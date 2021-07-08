@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 
     
-    parser.add_argument('--config-file', default = None, help = 'Path to configuration file')
+    #parser.add_argument('--config-file', default = None, help = 'Path to configuration file')
     
     
     
